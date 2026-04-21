@@ -39,4 +39,4 @@ A simple Java Swing desktop application that simulates a Gmail login interface w
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com//your-repo-name.git](https://github.com/Mai-Elbishlawy/Gmail-GUI)
+git clone https://github.com/Mai-Elbishlawy/Gmail-GUI.git
