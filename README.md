@@ -31,8 +31,6 @@ A simple Java Swing desktop application that simulates a Gmail login interface w
 
 ![Gmail GUI Screenshot](run.png)
 
-> Make sure to upload the screenshot in the same repository and name it `run.png`
-
 ---
 
 ## 📂 How to Run
