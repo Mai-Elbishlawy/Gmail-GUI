@@ -32,7 +32,6 @@ A simple Java Swing desktop application that simulates a Gmail login interface w
 <p align="center">
   <img src="Images/run1.png" width="300" />
   <img src="Images/run2.png" width="300" />
-  <img src="Images/run3.png" width="300" />
 </p>
 
 ---
