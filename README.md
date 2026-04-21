@@ -27,6 +27,25 @@ A simple Java Swing desktop application that simulates a Gmail login interface w
 
 ---
 
+## 🛠️ Components Implemented
+
+In this project, I explored and implemented the following **Swing Components**:
+
+| Component | Description |
+| :--- | :--- |
+| **`JFrame`** | The main window container with a custom title and icon. |
+| **`JPanel`** | A mini-container used to organize elements with an **Absolute Layout**. |
+| **`JTextField`** | Input field for usernames. |
+| **`JPasswordField`** | Secure input field that masks characters for passwords. |
+| **`JButton`** | Interactive login button. |
+| **`JLabel`** | Used for static text (Username/Password labels) and displaying images. |
+| **`JCheckBox`** | "Save Password" feature implementation. |
+| **`JComboBox`** | Dropdown menu for selecting user roles (Admin, User, Register). |
+| **`JList`** | Selection list for choosing languages (English/Arabic). |
+| **`ImageIcon`** | Handling and scaling external images (e.g., Gmail icon). |
+
+---
+
 ## 📸 Preview
 
 <p align="center">
